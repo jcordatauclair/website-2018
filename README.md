@@ -18,7 +18,9 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](screenshots/homescreen.gif)
+<p align="center">
+  <img src="screenshots/homescreen.gif">
+</p>
 
 ## **Overview**
 
@@ -27,6 +29,51 @@ This project gathers all the code I produced in order to set up my first persona
 I used **HTML & CSS**, **JavaScript**, **Bootstrap** and **PHP** to allow users to send me emails directly from an appropriate web page.
 
 ## **Screenshots**
+
+**Responsive** :
+<p align="center">
+  <img src="screenshots/responsive.gif">
+</p>
+
+**Homepage** :
+
+- *desktop* :
+<p align="center">
+  <img src="screenshots/homepage.png">
+</p>
+
+- *mobile* :
+<p align="center">
+  <img src="screenshots/homepage_mobile.png">
+</p>
+
+**Blog** :
+
+- *desktop* :
+<p align="center">
+  <img src="screenshots/blog.png">
+</p>
+
+- *mobile* :
+<p align="center">
+  <img src="screenshots/blog_mobile.png">
+</p>
+
+
+
+**About** :
+
+- *desktop* :
+<p align="center">
+  <img src="screenshots/about.png">
+</p>
+
+- *mobile* :
+<p align="center">
+  <img src="screenshots/about_mobile.png">
+</p>
+
+
 
 ## **License**
 
