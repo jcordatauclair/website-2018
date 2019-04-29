@@ -22,11 +22,13 @@
   <img src="screenshots/homescreen.gif">
 </p>
 
+
 ## **Overview**
 
 This project gathers all the code I produced in order to set up my first personal website. I mainly posted my photographs, videos and some stories of the trips I had the chance to make. The website was available in french and in english and was fully responsive.
 
 I used **HTML & CSS**, **JavaScript**, **Bootstrap** and **PHP** to allow users to send me emails directly from an appropriate web page.
+
 
 ## **Screenshots**
 
@@ -59,8 +61,6 @@ I used **HTML & CSS**, **JavaScript**, **Bootstrap** and **PHP** to allow users 
   <img src="screenshots/blog_mobile.png">
 </p>
 
-
-
 **About** :
 
 - *desktop* :
@@ -72,7 +72,6 @@ I used **HTML & CSS**, **JavaScript**, **Bootstrap** and **PHP** to allow users 
 <p align="center">
   <img src="screenshots/about_mobile.png">
 </p>
-
 
 
 ## **License**
