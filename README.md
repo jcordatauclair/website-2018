@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">A presentation of my 2018 personal website.</h4>
+<h4 align="center">A presentation of my 2018 personal website</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/project-personal-blue.svg?style=flat-square">
